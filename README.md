@@ -1,4 +1,4 @@
 # apnacollaage-demo
 this is my first git repostiory 
 <br>
-author-somya p
+author-{somya patil}
